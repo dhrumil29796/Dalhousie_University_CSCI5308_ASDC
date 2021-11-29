@@ -11,21 +11,21 @@ All assignments and the final project are completed in class CSCI5308 (Advanced 
 	* Practice developing effective unit tests.
 	* Practice implementing unit tests with JUnit.
 	* Practice working with TDD.
-* Problem Statement PDF:(https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment1/Assignment1_Instructions.pdf)
+* 📄 [Problem Statement PDF](https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment1/Assignment1_Instructions.pdf)<br/>
 
 ### Assignment 2
 * Learning Objectives:
 	* Practice procedural refactoring.
 	* Practice implementing good/quality code.
 	* Practice SOLID principles.
-* Problem Statement PDF:(https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment2/Assignment2_Instructions.pdf)
+* 📄 [Problem Statement PDF](https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment2/Assignment2_Instructions.pdf)<br/>
 
 ### Assignment 3
 * Learning Objectives:
 	* Describe the use of SOLID principles in your project.
 	* Describe the use of layers in your project.
 	* Describe the opportunities for refactoring and improvements in your project using design patterns.
-* Problem Statement PDF:(https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment3/Assignment3_Instructions.pdf)
+* 📄 [Problem Statement PDF](https://github.com/dhrumil29796/Dalhousie_University_CSCI5308_ASDC/blob/main/Assignment3/Assignment3_Instructions.pdf)<br/>
 
 ## Final Group Project
 * Project Name: Blood Book
