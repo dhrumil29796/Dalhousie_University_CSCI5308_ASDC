@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827725b3-2cb3-4910-9256-ec4d8345ddd9" name="Default Changelist" comment="Added a message in the errors.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tglcoJrcMUAR12hkE9fN0KUgiH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Data Management Warehousing Analytics CSCI5408/Assignment 2/data_a2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in ronnie">
+    <configuration name="All in ronnie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityTest.getLinksTo_Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CityTest" />
+      <option name="METHOD_NAME" value="getLinksTo_Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityTest.getLinksTo_Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CityTest" />
+      <option name="METHOD_NAME" value="getLinksTo_Test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkTest.getAdj_city4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkTest" />
+      <option name="METHOD_NAME" value="getAdj_city4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ronnie" />
+        <item itemvalue="JUnit.LinkTest.getAdj_city4" />
+        <item itemvalue="JUnit.LinkTest" />
+        <item itemvalue="JUnit.CityTest.getLinksTo_Test2" />
+        <item itemvalue="JUnit.CityTest.getLinksTo_Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827725b3-2cb3-4910-9256-ec4d8345ddd9" name="Default Changelist" comment="" />
+      <created>1623198696681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623198696681</updated>
+      <workItem from="1623198700162" duration="46000" />
+      <workItem from="1623198749729" duration="49000" />
+      <workItem from="1623199184332" duration="47000" />
+      <workItem from="1623199248606" duration="11000" />
+      <workItem from="1623199367349" duration="109000" />
+      <workItem from="1623199490236" duration="109000" />
+      <workItem from="1623199604717" duration="215000" />
+      <workItem from="1623199823626" duration="346000" />
+      <workItem from="1623672653158" duration="15495000" />
+      <workItem from="1623757786330" duration="785000" />
+      <workItem from="1623848585794" duration="55000" />
+      <workItem from="1624040181974" duration="16374000" />
+      <workItem from="1624310409074" duration="818000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added the Overridden function compareTo() in the Link class as it implements Comparable&lt;&gt; Interface - which covers the logic for comparing links among city1 and city2">
+      <created>1623701725933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623701725933</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added unitTests for the compareTo() method in the Link class. Total 6 tests added covering all possible scenarios.">
+      <created>1623704352075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623704352075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated the compareTo test names in LinkTest.java file.&#10;Added the error in the errors.txt file.">
+      <created>1623758273422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623758273422</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated the getLength() test case in LinkTest.java file">
+      <created>1624040548796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624040548796</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Found &amp; fixed a bug in parameterized Link constructor for the used being set to true">
+      <created>1624075907066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624075907066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Found &amp; fixed a bug in getAdj() method and also wrote corresponding test cases">
+      <created>1624088093673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624088093673</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Simplified the code, making it more efficient for following test methods&#10;isUsed_true(), isUsed_false(), setUsed_true(), setUsed_false()">
+      <created>1624088686854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624088686854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Wrote the linkName() method returning a String representation of a Link between city1 &amp; city2&#10;Also wrote test case linkName_test() for the same.">
+      <created>1624089480154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624089480154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created the CityTest.java file.&#10;Wrote addLink_Test1(), addLink_Test2(), addLink_Test3() test cases for the addLink() method in City.java file">
+      <created>1624093508229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624093508229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed the bug in City.java file under toString() method&#10;Wrote test case for the same in CityTest.java under toString_Test() method&#10;Added an entry of the fixed bug in errors.txt file">
+      <created>1624094137928</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624094137928</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added test cases in CityTest.java file for the compareTo() method of City.java file">
+      <created>1624095345087</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624095345087</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed the bugs in the compare() method of City.java &amp; CityComparator.java files&#10;Wrote test cases for the same in CityTest.java &amp; CityComparatorTest.java files&#10;Added the bug report in the errors.txt file">
+      <created>1624098008390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624098008390</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed the bug in getLinksTo() method in the City.java file&#10;Wrote test cases for the same in CityTest.java file&#10;Reported the bug in errors.txt file">
+      <created>1624099943898</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624099943898</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changed the logic of compareTo() method in Link.java file, now I am comparing names of the cities&#10;Updated comments in the LinkTest.java file.">
+      <created>1624100457143</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1624100457143</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added a test case in LinkTest.java file for null value being passed">
+      <created>1624101344372</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624101344372</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added initial compilation error in the errors.txt file">
+      <created>1624101669287</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624101669287</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added a message in the errors.txt">
+      <created>1624102727411</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624102727412</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the Overridden function compareTo() in the Link class as it implements Comparable&lt;&gt; Interface - which covers the logic for comparing links among city1 and city2" />
+    <MESSAGE value="Added unitTests for the compareTo() method in the Link class. Total 6 tests added covering all possible scenarios." />
+    <MESSAGE value="Updated the compareTo test names in LinkTest.java file.&#10;Added the error in the errors.txt file." />
+    <MESSAGE value="Updated the getLength() test case in LinkTest.java file" />
+    <MESSAGE value="Found &amp; fixed a bug in parameterized Link constructor for the used being set to true" />
+    <MESSAGE value="Found &amp; fixed a bug in getAdj() method and also wrote corresponding test cases" />
+    <MESSAGE value="Simplified the code, making it more efficient for following test methods&#10;isUsed_true(), isUsed_false(), setUsed_true(), setUsed_false()" />
+    <MESSAGE value="Wrote the linkName() method returning a String representation of a Link between city1 &amp; city2&#10;Also wrote test case linkName_test() for the same." />
+    <MESSAGE value="Created the CityTest.java file.&#10;Wrote addLink_Test1(), addLink_Test2(), addLink_Test3() test cases for the addLink() method in City.java file" />
+    <MESSAGE value="Fixed the bug in City.java file under toString() method&#10;Wrote test case for the same in CityTest.java under toString_Test() method&#10;Added an entry of the fixed bug in errors.txt file" />
+    <MESSAGE value="Added test cases in CityTest.java file for the compareTo() method of City.java file" />
+    <MESSAGE value="Fixed the bugs in the compare() method of City.java &amp; CityComparator.java files&#10;Wrote test cases for the same in CityTest.java &amp; CityComparatorTest.java files&#10;Added the bug report in the errors.txt file" />
+    <MESSAGE value="Fixed the bug in getLinksTo() method in the City.java file&#10;Wrote test cases for the same in CityTest.java file&#10;Reported the bug in errors.txt file" />
+    <MESSAGE value="Changed the logic of compareTo() method in Link.java file, now I am comparing names of the cities&#10;Updated comments in the LinkTest.java file." />
+    <MESSAGE value="Added a test case in LinkTest.java file for null value being passed" />
+    <MESSAGE value="Added initial compilation error in the errors.txt file" />
+    <MESSAGE value="Added a message in the errors.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a message in the errors.txt" />
+  </component>
+</project>

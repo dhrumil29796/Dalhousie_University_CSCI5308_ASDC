@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2af24a3e-f0fd-42d4-b3ea-646ee546390f" name="Default Changelist" comment="Added the Final Submission Files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/Tests.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1um47YYg5IVKWYPnYkHjzpPRFqp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MACS Dalhousie University\Summer 2021 Term\Adv Topics in Software Development - CSCI 5308\Assignment 2\drshah\src\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.append" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="append" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.parameterizedConstructorArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="parameterizedConstructorArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.parameterizedConstructorList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="parameterizedConstructorList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.toScanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ronnie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="toScanner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.toScanner" />
+        <item itemvalue="JUnit.Tests.append" />
+        <item itemvalue="JUnit.Tests.parameterizedConstructorArray" />
+        <item itemvalue="JUnit.Tests.parameterizedConstructorList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2af24a3e-f0fd-42d4-b3ea-646ee546390f" name="Default Changelist" comment="" />
+      <created>1625257265620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625257265620</updated>
+      <workItem from="1625257267492" duration="69000" />
+      <workItem from="1625257342786" duration="1124000" />
+      <workItem from="1625328013048" duration="9000" />
+      <workItem from="1626264479328" duration="19000" />
+      <workItem from="1626264519222" duration="166000" />
+      <workItem from="1626264903190" duration="811000" />
+      <workItem from="1626325533700" duration="28177000" />
+      <workItem from="1626414080039" duration="10778000" />
+      <workItem from="1626437960725" duration="12686000" />
+      <workItem from="1626460572551" duration="405000" />
+      <workItem from="1626541307310" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactored the naming of variables (local + global), objects, parameters in the application">
+      <created>1626349866162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626349866162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactored the array initialization in IndexableList file">
+      <created>1626355692228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626355692228</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Found and Fixed Open/Closed principle violation in both the classes.">
+      <created>1626356731745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626356731745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Found and Fixed Single Responsibility principle violation in both the classes by creating separate files implementing List and Array implementations">
+      <created>1626360128161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626360128162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Found and Fixed the Dependency Inversion principle violation in IndexableList and IndexableArray classes">
+      <created>1626366703226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626366703226</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Found and Fixed the Interface Segregation principle being violated for all the four classes">
+      <created>1626367340634</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626367340634</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Formatting done for Variables (Fields) in all the files.">
+      <created>1626417383653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626417383653</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rectifies the Issue II → Creating a separate class for List and Array implementation of the IndexableList and OrderedIndexableList classes.">
+      <created>1626425551940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626425551940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed the Single Responsibility principle being violated by the toScanner() method in the IndexableList class and a separate interface is also created">
+      <created>1626426166274</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626426166275</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added appropriate Exceptions to the methods in IndexableList and OrderedIndexableList classes">
+      <created>1626442626943</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626442626943</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated the error message being shown on the Console">
+      <created>1626443664979</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626443664979</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated the Exceptions added to the files">
+      <created>1626445401636</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626445401636</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactoring done for magic constants">
+      <created>1626446231593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626446231593</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Comments added to all the files.">
+      <created>1626451984562</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626451984562</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Done Data Level Refactoring in IndexableList class">
+      <created>1626452533807</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1626452533808</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added the Final Submission Files">
+      <created>1626460919496</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1626460919496</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Refactored the naming of variables (local + global), objects, parameters in the application" />
+    <MESSAGE value="Refactored the array initialization in IndexableList file" />
+    <MESSAGE value="Found and Fixed Open/Closed principle violation in both the classes." />
+    <MESSAGE value="Found and Fixed Single Responsibility principle violation in both the classes by creating separate files implementing List and Array implementations" />
+    <MESSAGE value="Found and Fixed the Dependency Inversion principle violation in IndexableList and IndexableArray classes" />
+    <MESSAGE value="Found and Fixed the Interface Segregation principle being violated for all the four classes" />
+    <MESSAGE value="Formatting done for Variables (Fields) in all the files." />
+    <MESSAGE value="Rectifies the Issue II → Creating a separate class for List and Array implementation of the IndexableList and OrderedIndexableList classes." />
+    <MESSAGE value="Fixed the Single Responsibility principle being violated by the toScanner() method in the IndexableList class" />
+    <MESSAGE value="Fixed the Single Responsibility principle being violated by the toScanner() method in the IndexableList class and a separate interface is also created" />
+    <MESSAGE value="Added appropriate Exceptions to the methods in IndexableList and OrderedIndexableList classes" />
+    <MESSAGE value="Updated the error message being shown on the Console" />
+    <MESSAGE value="Updated the Exceptions added to the files" />
+    <MESSAGE value="Refactoring done for magic constants" />
+    <MESSAGE value="Comments added to all the files." />
+    <MESSAGE value="Done Data Level Refactoring in IndexableList class" />
+    <MESSAGE value="Added the Final Submission Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Final Submission Files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drshah$Tests.ic" NAME="Tests Coverage Results" MODIFIED="1626437786760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

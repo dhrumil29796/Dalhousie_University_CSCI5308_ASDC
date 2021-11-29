@@ -1,0 +1,56 @@
+Bug Report
+==========
+
+Error 1:
+  Class: All Classes
+  Method: All Methods
+  Test Method: NA
+  Message: Got an error while setting up the project in IntelliJ so had to set it to version 14.
+
+Error 2:
+  Class: Link
+  Method: compareTo()
+  Test Method: compareTo_zero1(), compareTo_zero2(), compareTo_negative1(), compareTo_negative2(), compareTo_negative3(), compareTo_positive()
+  Message: Link class was not abstract and did not override the compareTo(Link l) abstract method of the Comparable<> Interface.
+
+Error 3:
+  Class: Link
+  Method: Link() constructor
+  Message: Commented the used being set to true as by default we cannot consider the new link to be part of the set of the shortest paths
+
+Error 4:
+  Class: Link
+  Method: getAdj()
+  Test Method: getAdj_city1(), getAdj_city2(), getAdj_city3()
+  Message: Updated the false result in ternary operation for getAdj() method and also added a if condition, now it returns the adjacent city based on the passed city.
+           Considering there is a link between the two cities.
+           The if condition handles the unspecified behavior of the method, when a city is passed other than city1 & city2.
+
+Error 5:
+  Class: City
+  Method: toString()
+  Test Method: toString_Test()
+  Message: Removed the distance being concatenated at the end of the city name string being returned.
+
+Error 6:
+  Class: City
+  Method: compare()
+  Test Method: compare_zero(), compare_positive(), compare_negative()
+  Message: Swapped the c2.distance - c1.distance in the return statement as it wouldn't give correct output.
+
+Error 7:
+  Class: CityComparator
+  Method: compare()
+  Test Method: compare_xSmaller(), compare_xEqual(), compare_xLarger()
+  Message: Swapped the y & x in the return statement as it wouldn't give correct output.
+
+Error 8:
+  Class: City
+  Method: getLinksTo()
+  Test Method: getLinksTo_Test1(), getLinksTo_Test2(), getLinksTo_Test3()
+  Message: Changed the nested if return statement to true & the main return statement to false as it was giving wrong output.
+           The nested if return statement shows that the path has been found whereas the main return statement returns false as the path is not found.
+
+============
+Message: Added linkName() method in the Link class to return the String representation of the Link & wrote the test cases for the same in LinkTest class.
+
